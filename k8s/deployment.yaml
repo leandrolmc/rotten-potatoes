@@ -86,4 +86,4 @@ spec:
     targetPort: 5000
     nodePort: 30000
   type: LoadBalancer
-# Alterando type: NodePort para gerar IP externo
+# Alterando para gerar IP externo: antes era nodePort
