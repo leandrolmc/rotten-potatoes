@@ -27,7 +27,7 @@ jobs:
            file: /src/Dockerfile
            push: true
            tags: |
-             leandrolmc/rotten-potatoes:latest
-             leandrolmc/rotten-potatoes:${{ github.run_number }}
+             leco85/rotten-potatoes:latest
+             leco85/rotten-potatoes:${{ github.run_number }}
           
    
